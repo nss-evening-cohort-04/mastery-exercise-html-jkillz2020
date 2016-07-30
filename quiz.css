@@ -13,8 +13,13 @@ h1{
   text-align: center;
 }
 
+.specifications div:nth-of-type(n+0){
+  font-weight: bold;
+}
+
 .description{
   text-align: justify;
+  font-weight: 400;
 }
 
 .availability{
@@ -22,7 +27,4 @@ h1{
   color: yellow;
 }
 
-.specifications > div{
-  text-decoration: bold;
-}
 
