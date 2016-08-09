@@ -1,3 +1,5 @@
+
+
 article{
   width: 30%;
   border: solid lightblue 1px;
@@ -13,7 +15,7 @@ h1{
   text-align: center;
 }
 
-.specifications div:nth-of-type(n+0){
+.specifications div {
   font-weight: bold;
 }
 
