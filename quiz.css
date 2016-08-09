@@ -1,0 +1,32 @@
+
+
+article{
+  width: 30%;
+  border: solid lightblue 1px;
+  display: inline-block;
+}
+
+h1{
+  border: dotted lightgray 1px;
+  text-align: center;
+}
+
+.image{
+  text-align: center;
+}
+
+.specifications div {
+  font-weight: bold;
+}
+
+.description{
+  text-align: justify;
+  font-weight: 400;
+}
+
+.availability{
+  background-color: darkgrey;
+  color: yellow;
+}
+
+
